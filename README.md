@@ -1,16 +1,4 @@
 # Belajar Dasar Structured Query Language (SQL)
-## Kemampuan Dasar
-1. Paham dasar-dasar statistik.
-2. Paham dasar-dasar visualisasi data.
-3. Tahu berbagai jenis diagram dalam visualisasi data dan kegunaannya.
-4. Tahu teknik-teknik buat bikin visualisasi data yang keren.
-5. Paham konsep dasar pemrograman pakai Python.
-6. Kenal berbagai sintaks dasar di bahasa pemrograman Python.
-7. Bisa pake Google Colab, Jupyter Notebook, atau Python IDE lainnya buat nulis dan jalanin kode Python.
-## Tools
-1. Jupyter Notebook
-2. Google Colaboratory
-3. Integrated Development Environment (IDE), contohnya PyCharm atau Visual Studio Anaconda
 ## 1. Pengenalan Data dan Basis Data
 Ayo belajar bareng tentang data secara umum, kenalan sama berbagai tipe data, nge-bedain data, dataset, dan basis data. Terus, cari tahu platform-platform yang nyediain dataset dan dapet gambaran tentang teori relational database.
 
@@ -78,7 +66,7 @@ Belajar dan langsung latihan pake query yang paling sering dipake, kayak select,
 
 4.13. Rangkuman Basic Query
 # Rangkuman Kelas
-# [Daftar Istilah](https://github.com/Haertanto/analisisdatapython/blob/main/Daftar%20Istilah.md)
+# Daftar Istilah
 # Referensi
 1. Beighley, L. (2007). “Head First SQL”. O’Reilly Media, Inc.
 
