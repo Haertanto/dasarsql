@@ -15,6 +15,7 @@ Ayo belajar bareng tentang data secara umum, kenalan sama berbagai tipe data, ng
 1.6. Rangkuman Pengenalan Data dan Basis Data 
 ## 2. Database Management System
 Kenalan sama teori tentang database management systems, plus kita juga bakal praktek langsung cara gunain database management system.
+
 2.1. Mengenal Database Management System (DBMS)
 
 2.2. Berbagai Pilihan Database Management System
@@ -24,6 +25,7 @@ Kenalan sama teori tentang database management systems, plus kita juga bakal pra
 2.4. Rangkuman Database Management System
 ## 3. Pengenalan Structured Query Language
 Bagiann ini ngejelasin teori tentang Structured Query Language (SQL), ngenalin tabel-tabel di SQL, dan gimana cara ngimplementasiinnya.
+
 3.1. Mengenal Teori Structured Query Language
 
 3.2. Data Definition Language
