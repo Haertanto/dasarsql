@@ -1,4 +1,5 @@
 # Belajar Dasar Structured Query Language (SQL)
+# [Daftar Istilah](https://github.com/Haertanto/dasarsql/blob/main/Daftar%20Istilah.md)
 ## 1. Pengenalan Data dan Basis Data
 Ayo belajar bareng tentang data secara umum, kenalan sama berbagai tipe data, nge-bedain data, dataset, dan basis data. Terus, cari tahu platform-platform yang nyediain dataset dan dapet gambaran tentang teori relational database.
 
@@ -66,7 +67,6 @@ Belajar dan langsung latihan pake query yang paling sering dipake, kayak select,
 
 4.13. Rangkuman Basic Query
 # Rangkuman Kelas
-# Daftar Istilah
 # Referensi
 1. Beighley, L. (2007). “Head First SQL”. O’Reilly Media, Inc.
 
